@@ -1,4 +1,4 @@
 # CSP lab
-Lab Programs for C lab
+Lab Programs for CSP lab
 
 Author: Chandramani Adil 2018PCP5420
